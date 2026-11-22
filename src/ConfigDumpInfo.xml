@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="Catalog.Авторы" id="6155ac65-3a2d-49e0-985c-cb6cf4648a83" configVersion="394567fff828b04e855db34b0303692d00000000"/>
+		<Metadata name="Catalog.Авторы.Form.ФормаСписка" id="b0d2f57c-b036-4798-928d-ffdcb6e855a3" configVersion="d7c0e5ed25807a48b4234c081e93c8c500000000"/>
+		<Metadata name="Catalog.Авторы.Form.ФормаСписка.Form" id="b0d2f57c-b036-4798-928d-ffdcb6e855a3.0" configVersion="1eab7e7ac084ec408b89f1d9db64e4e000000000"/>
+		<Metadata name="Catalog.КартотекаЧитателей" id="f7472162-468f-43ba-892e-ff6a0b4b5814" configVersion="b0af539fe3a91947b05324aa184e53c100000000">
+			<Metadata name="Catalog.КартотекаЧитателей.Attribute.Адрес" id="be5d79c7-6d57-45a2-b7a3-62531f3e3fc9"/>
+		</Metadata>
+		<Metadata name="Catalog.КартотекаЧитателей.Form.ФормаСписка" id="d92490ce-60a1-42f3-a150-07a8832b141a" configVersion="add764e1212ce04999fb73da6e14ecce00000000"/>
+		<Metadata name="Catalog.КартотекаЧитателей.Form.ФормаСписка.Form" id="d92490ce-60a1-42f3-a150-07a8832b141a.0" configVersion="1823aa7a0c52de4c82c3edbc0904daaf00000000"/>
+		<Metadata name="Catalog.Книги" id="f5393329-da9c-4f60-8fa7-2c80b4f13231" configVersion="bba7027e03dedb42b0d0086159bce2bf00000000">
+			<Metadata name="Catalog.Книги.Attribute.Автор" id="3fc1e1f7-e1f8-4511-8a8a-df06c833f899"/>
+			<Metadata name="Catalog.Книги.Attribute.Состояние" id="54a5c7cf-1762-4910-a415-88f1bcb2dfe4"/>
+		</Metadata>
+		<Metadata name="Catalog.Книги.Form.ФормаСписка" id="90e0efd5-ea8d-4e74-98fd-832d95f0f492" configVersion="57f980e1dafd7946b9d26038a0ad475200000000"/>
+		<Metadata name="Catalog.Книги.Form.ФормаСписка.Form" id="90e0efd5-ea8d-4e74-98fd-832d95f0f492.0" configVersion="ddf535b532a5274db4e2d25e3679d71100000000"/>
+		<Metadata name="Catalog.Сотрудники" id="101fadfa-e286-4f0a-8ef1-3925ce52a464" configVersion="70463dfd44db90468d84bf37386c808a00000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка" id="cbd30436-915b-4ae4-bbff-1dbb40ce68bd" configVersion="772717cd7e6e0446a0e8dd591e90e52300000000"/>
+		<Metadata name="Catalog.Сотрудники.Form.ФормаСписка.Form" id="cbd30436-915b-4ae4-bbff-1dbb40ce68bd.0" configVersion="c2d4b2bc9046af4b984e188783bd4cec00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="ef4d058f-8ef5-4055-be72-7f125fec0a5e" configVersion="eafda5374a87ee41be1bd2c06be75a0100000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="22eaa8d5-bff9-4af6-9ed2-93136debd57d.8" configVersion="f870cf9ec2f1734e9630bbf9c7d18c3100000000"/>
+		<Metadata name="Configuration.Конфигурация.MainSectionCommandInterface" id="22eaa8d5-bff9-4af6-9ed2-93136debd57d.9" configVersion="1e91821548852d43adb0264952ea5a4100000000"/>
+		<Metadata name="Constant.ГенеральныйДиректор" id="7208c911-1eee-4c22-8862-377cd940a724" configVersion="869fdfec1b52a3448251b11e24fd9b1d00000000"/>
+		<Metadata name="Constant.ДатаРегистрации" id="7a4d03f6-7e13-4bcd-8442-3e02439cf255" configVersion="d83583851a327c4cb90f44625ea8cc6d00000000"/>
+		<Metadata name="Constant.НазваниеОрганизации" id="bad84059-59b2-4651-888f-78109202d575" configVersion="24814f961b081e4f91156b7cc613ecb900000000"/>
+		<Metadata name="Document.ВозвратКниг" id="c0a93077-7bf6-4898-8fb5-1b01025218c9" configVersion="63d60200f6baea4483b535570e7fac3700000000">
+			<Metadata name="Document.ВозвратКниг.Attribute.Сотрудник" id="71a552f6-d5f3-4578-89d0-19f18a7b272c"/>
+			<Metadata name="Document.ВозвратКниг.Attribute.Книга" id="a56f6c71-6d78-442b-a093-202f601bb654"/>
+			<Metadata name="Document.ВозвратКниг.Attribute.Студент" id="b33fc672-c9e9-43b9-a863-91681bd875ab"/>
+		</Metadata>
+		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента" id="28d46bd1-554b-4d42-a1f3-a616346b0ad9" configVersion="a452f84af2baa94c861306507056bd8200000000"/>
+		<Metadata name="Document.ВозвратКниг.Form.ФормаДокумента.Form" id="28d46bd1-554b-4d42-a1f3-a616346b0ad9.0" configVersion="00e7264b10798a429c10ee931476527900000000"/>
+		<Metadata name="Document.ВыдачаКниг" id="ba2f00e5-b1eb-4658-9030-b8cc9b0f0e37" configVersion="c221c3f02d857f41bcdd3d41310750b900000000">
+			<Metadata name="Document.ВыдачаКниг.Attribute.Студент" id="150f3534-b92a-4ecf-9c1b-518c7a35516a"/>
+			<Metadata name="Document.ВыдачаКниг.Attribute.Сотрудник" id="4230dbc5-b627-40b0-97b4-0d3f3f203c8a"/>
+			<Metadata name="Document.ВыдачаКниг.Attribute.Книга" id="ad0d9ea2-0297-44a0-8124-7b3ef195d0f8"/>
+		</Metadata>
+		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента" id="35281fa9-cd9d-4a6c-b513-5bbb9a9d3ac7" configVersion="0c2fc4b393a3c540ae0db88a0587397c00000000"/>
+		<Metadata name="Document.ВыдачаКниг.Form.ФормаДокумента.Form" id="35281fa9-cd9d-4a6c-b513-5bbb9a9d3ac7.0" configVersion="ab21952a28f17b49b02470c70b9351f600000000"/>
+		<Metadata name="DocumentJournal.ЖурналВыдачиСдачиКниг" id="eb63917a-930b-4918-b147-ef3367ae9b8b" configVersion="ae6a7fe5561bb042befc598de63a874300000000">
+			<Metadata name="DocumentJournal.ЖурналВыдачиСдачиКниг.Column.Студент" id="4d69a1fe-91fe-4716-86f6-2dc88e71d62e"/>
+			<Metadata name="DocumentJournal.ЖурналВыдачиСдачиКниг.Column.Сотрудник" id="6b7b84ce-aaef-4f96-b445-ddca7afbc6fe"/>
+		</Metadata>
+		<Metadata name="DocumentJournal.ЖурналВыдачиСдачиКниг.Form.ФормаСписка" id="a2669525-8964-4a7a-aca1-438a598477c5" configVersion="8aea85cb0314f0489783038002fcf85600000000"/>
+		<Metadata name="DocumentJournal.ЖурналВыдачиСдачиКниг.Form.ФормаСписка.Form" id="a2669525-8964-4a7a-aca1-438a598477c5.0" configVersion="78a6c0208e77a540aba09a4e74f0feed00000000"/>
+		<Metadata name="Enum.СостояниеКниг" id="26693309-5985-4d8d-a398-2f5334bd48f0" configVersion="2303c62287296a499d09418153f1f8ec00000000">
+			<Metadata name="Enum.СостояниеКниг.EnumValue.Выдано" id="5e8ac99b-8307-42ba-a868-89c639b52d6d"/>
+			<Metadata name="Enum.СостояниеКниг.EnumValue.ВНаличии" id="9d2af200-8b40-495a-a6fe-008aeb037d9b"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="19cc3e4d-304c-4188-8510-26803041bb8b" configVersion="ebb2618ae6bf074faeac7fbbddbe0ed500000000"/>
+		<Metadata name="Report.ОтчетКниги" id="12b99c42-9039-4aa3-8d0b-100026e74ee3" configVersion="922271866cbfad4ea14c9f7f4fefc9bc00000000"/>
+		<Metadata name="Report.ОтчетКниги.Template.ОсновнаяСхемаКомпоновкиДанных" id="9c7c8022-88a3-48aa-b0e7-5b52f5c0e044" configVersion="d15ba09de317234db7dacc3388dc6c9900000000"/>
+		<Metadata name="Report.ОтчетКниги.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="9c7c8022-88a3-48aa-b0e7-5b52f5c0e044.0" configVersion="7afc1a99940aba42a8a46bacbf51090b00000000"/>
+		<Metadata name="Report.ОтчетСотрудники" id="9229a698-bce7-466a-9174-fbe730d9f780" configVersion="2be101bf33639d48b4aad460272e4bf800000000"/>
+		<Metadata name="Report.ОтчетСотрудники.Template.ОсновнаяСхемаКомпоновкиДанных" id="8c289fad-dba6-4ef2-b43a-a4e6df63f946" configVersion="5d1c5c965f54bc4d8444b529cfda98d700000000"/>
+		<Metadata name="Report.ОтчетСотрудники.Template.ОсновнаяСхемаКомпоновкиДанных.Template" id="8c289fad-dba6-4ef2-b43a-a4e6df63f946.0" configVersion="0765367085ee0e4980acb37e0636bdfe00000000"/>
+		<Metadata name="Subsystem.ВыдачаИВозврат" id="f2514868-0557-4cc2-bbe8-5c464989d020" configVersion="70a9c674ee0ac14db86cdb600fde656d00000000"/>
+		<Metadata name="Subsystem.ВыдачаИВозврат.CommandInterface" id="f2514868-0557-4cc2-bbe8-5c464989d020.1" configVersion="e3fc6ddef216124aafa09c7114110e2900000000"/>
+		<Metadata name="Subsystem.ЧитателиИКниги" id="6f2a699c-70a9-4cfe-8a43-7d7bde3eb662" configVersion="66dfbfc85b952546bccaf3e6d1f6e48900000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
